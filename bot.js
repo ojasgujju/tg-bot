@@ -1,7 +1,7 @@
 const TelegramBot = require("node-telegram-bot-api");
 
 // Replace 'YOUR_BOT_TOKEN' with the token you received from BotFather
-const bot = new TelegramBot("5881521479:AAEfyzCbFnQc6qHfKx3Ljiw8olvBLtNLFN8", {
+const bot = new TelegramBot("5881521479:AAFah6lj2FLjldjy8tO84BSxGZYikABaf6w", {
   polling: true,
 });
 
